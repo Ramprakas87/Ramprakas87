@@ -15,7 +15,6 @@ All about me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-oe76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ram-prakash-patel-62863b378/)
 
 
-
 ### Happy to see you here! 👋  
 ![](https://visitor-badge.glitch.me/badge?page_id=Ramprakash87.Ramprakash87)
 
