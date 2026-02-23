@@ -18,7 +18,7 @@ All about me
 ![](https://visitor-badge.glitch.me/badge?page_id=Ramprakash87.Ramprakash87)
 
 Meet me, Ram Prakash Patel.
-I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights. Currently, I am enhancing my skills in Excel, SQL, and Python while building practical projects to strengthen my analytical thinking and problem-solving abilities.
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights. Currently, I am enhancing my skills in Excel, SQL, Python And Power BI while building practical projects to strengthen my analytical thinking and problem-solving abilities.
 
 **Talking about Personal Stuffs:**
 
