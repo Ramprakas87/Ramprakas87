@@ -1,10 +1,8 @@
 
-# About_Me
-All about me
-<h1 align="center">
-  Hi there, I'm <a href="https://github.com/Ramprakash87" target="_blank">Ram Prakash Patel</a> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+# All About_Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=🌸Hey+there,+I’m+so+glad+you’re+here!&center=true&width=700&height=45&color=FF9933&size=30">
+</p>
 
 <h3 align="center">Aspiring Data Analyst | Excel | SQL | Python|Power BI</h3>
 
@@ -36,5 +34,3 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-4285F4?style=plastic&logo=google-analytics&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white) ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-001F3F?style=plastic&logo=brain&logoColor=white)
 ```
-
-
