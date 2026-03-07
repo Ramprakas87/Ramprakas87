@@ -1,9 +1,12 @@
 
 # All About_Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&height=60&color=FF9933&lines=🌸+Hey+there,+I’m+so+glad+you’re+here!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&height=60&color=FF9933&lines=Hey+there,+I'm+so+glad+you're+here!;Welcome+to+my+GitHub+Profile">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ramprakas87&label=Profile%20Views&color=ff9933&style=for-the-badge">
+</p>
 <h3 align="center">Aspiring Data Analyst | Excel | SQL | Python|Power BI</h3>
 
 <p align="center">
