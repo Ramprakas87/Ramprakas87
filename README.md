@@ -1,7 +1,7 @@
 
 # All About_Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=🌸Hey+there,+I’m+so+glad+you’re+here!&center=true&width=700&height=45&color=FF9933&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&height=60&color=FF9933&lines=🌸+Hey+there,+I’m+so+glad+you’re+here!">
 </p>
 
 <h3 align="center">Aspiring Data Analyst | Excel | SQL | Python|Power BI</h3>
